@@ -12,7 +12,12 @@ I'm Cesar from Colombia, I really enjoy learning languages and frameworks like R
 
 ![Development](https://github.com/cesarol8/cesarol8/blob/main/tech%202.png?raw=true)
 
+### Books
+- 📘 Clean Code | Robert C. Martin | ✔️
+- 📗 Clean Architecture | Robert C. Martin | 🔜
+- 📙 Agile SoftwareDeveloment, Principles,Patterns and Practices | Robert C. Martin | 🔜
 
+### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarol8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cesarol8)  
