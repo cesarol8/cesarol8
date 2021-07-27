@@ -10,7 +10,7 @@ I'm Cesar from Colombia, I really enjoy learning languages and frameworks like R
 
 ### Skills
 
-![Development](https://github.com/cesarol8/cesarol8/blob/main/tech 2.png?raw=true)
+![Development](https://github.com/cesarol8/cesarol8/blob/main/tech%202.png?raw=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarol8)](https://github.com/anuraghazra/github-readme-stats)
