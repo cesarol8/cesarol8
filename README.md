@@ -8,7 +8,7 @@ I'm Cesar from Colombia, I really enjoy learning languages and frameworks like R
 - 🌱 I’m currently learning Cloud Computing 
 - 👯 I’m looking to collaborate on React projects 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/ FLUTTER
+Skills:
 
 ![Development](https://github.com/cesarol8/cesarol8/blob/main/tech.png?raw=true)
 
