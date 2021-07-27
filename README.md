@@ -8,7 +8,7 @@ I'm Cesar from Colombia, I really enjoy learning languages and frameworks like R
 - 🌱 I’m currently learning Cloud Computing 
 - 👯 I’m looking to collaborate on React projects 
 
-Skills:
+### Skills
 
 ![Development](https://github.com/cesarol8/cesarol8/blob/main/tech.png?raw=true)
 
@@ -17,6 +17,7 @@ Skills:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cesarol8)  
 
+### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cesarol8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/john-cesar-osorio-lasso-3b817568/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cesarol8)  
 
 
